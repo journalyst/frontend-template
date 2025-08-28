@@ -11,7 +11,7 @@ const ContentLayout = () => {
             className="block w-full bg-gray-200 text-black py-3 px-5 rounded-full "
             placeholder="Search"
           />
-          <button className="bg-[#0e1323] text-white py-3 px-5 rounded-full">
+          <button className="bg-[#0e1323] text-white py-3 px-10 rounded-full w-fit whitespace-nowrap">
             New Company
           </button>
         </div>
